@@ -3,7 +3,7 @@ Squad Bootstrap Template
 
 Squad is a free Bootstrap template from BootstrapTaste for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigatio. This template uses wow.js animation script to animate section elements.
 
-![Screenshot](https://bytebucket.org/fabriciorabelo/squad-theme/raw/1aaf0a936db31e524fb5785c04612ec8eb95301b/assets/images/theme-preview.png?token=cbf4618b4236d1b17594c0c546b76814dceee5b7)
+![Screenshot](https://bytebucket.org/fabriciorabelo/squad-theme/raw/6659a6fb22163e1e1162ea835a862df5a2dc981b/assets/images/theme-preview.png)
 
 LICENCE:
 --------
