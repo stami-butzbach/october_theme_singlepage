@@ -1,7 +1,7 @@
 Squad Bootstrap Template
 =====
 
-Squad is a free Bootstrap template from BootstrapTaste for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigatio. This template uses wow.js animation script to animate section elements. Ported for OctoberCMS.
+Squad is a free Bootstrap template from BootstrapTaste for creatives, with a simple and modern layout. Nice CSS3 animation added on each section scroll and navigation. This template uses wow.js animation script to animate section elements. Ported for OctoberCMS.
 
 ![Screenshot](https://bytebucket.org/fabriciorabelo/squad-theme/raw/6659a6fb22163e1e1162ea835a862df5a2dc981b/assets/images/theme-preview.png)
 
